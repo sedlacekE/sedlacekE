@@ -6,6 +6,7 @@ Estudiante de Ingeniería en Sistemas en la Universidad Tecnológica Nacional (U
 ## 👨‍💻 ¿Qué hago?
 
 - Desarrollo proyectos en Python y desarrollo Frontedn
+- QA Manual: diseño y ejecución de casos de prueba, reporte de bugs y aseguramiento de calidad en aplicaciones web y móviles
 - Formación en ciberseguridad y pentesting
 - Interés en programación orientada a objetos, estructuras de datos y sistemas operativos
 - Aprendiendo desarrollo web y bases de datos
@@ -20,6 +21,3 @@ Estudiante de Ingeniería en Sistemas en la Universidad Tecnológica Nacional (U
 
 ---
 
-## 🎯 Objetivos
-
-Actualmente estoy enfocado en mejorar mis habilidades en desarrollo backend y seguridad informática.
