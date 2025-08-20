@@ -23,4 +23,4 @@ Estudiante de Ingeniería en Sistemas en la Universidad Tecnológica Nacional (U
 
 ## Proyectps
 
--- [QA CUIDOS](https://github.com/La-casita-Tech/QA-Cuidos.git)
+- [QA CUIDOS](https://github.com/La-casita-Tech/QA-Cuidos.git)
